@@ -1,4 +1,5 @@
-# CivicFix
+# CityCare
+
 
 AI-powered civic issue management platform. Citizens report problems (potholes, water
 leakage, streetlights, garbage, drainage, fallen trees, etc.) with a photo and GPS
